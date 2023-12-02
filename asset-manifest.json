@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/gokwik/static/css/main.ff7540eb.css",
+    "main.js": "/gokwik/static/js/main.403ea02e.js",
+    "static/js/787.2e9d64eb.chunk.js": "/gokwik/static/js/787.2e9d64eb.chunk.js",
+    "static/media/home-page-banner-laptop.png": "/gokwik/static/media/home-page-banner-laptop.c3d5462507f41ca01e84.png",
+    "static/media/banner-bg.svg": "/gokwik/static/media/banner-bg.56710aab8096980f2188.svg",
+    "static/media/logo.svg": "/gokwik/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nework-bg.svg": "/gokwik/static/media/nework-bg.0c68e39319563f067aff.svg",
+    "index.html": "/gokwik/index.html",
+    "main.ff7540eb.css.map": "/gokwik/static/css/main.ff7540eb.css.map",
+    "main.403ea02e.js.map": "/gokwik/static/js/main.403ea02e.js.map",
+    "787.2e9d64eb.chunk.js.map": "/gokwik/static/js/787.2e9d64eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff7540eb.css",
+    "static/js/main.403ea02e.js"
+  ]
+}
